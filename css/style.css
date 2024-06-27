@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Merriweather", serif;
+    font-style: normal;
+}
+h1{
+    height: 150px;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+    color: rgb(27, 20, 58);
+    font-size: 80px;
+    font-weight: 700;
+}
+.answer{
+    display: none;
+    color: rgb(27, 20, 58);
+    font-size: 20px;
+}
+.flashcard-container{
+    margin: 0px auto;
+    height: 3000px;
+    width: 90%;
+    background-color: white;
+}
+.container-x{
+    height: 400px;
+    width: 100%;
+    margin: 20px auto;
+}
+.card-body{
+    height: 397px;
+    width: 200px;
+    background-color: transparent;
+    border: solid 2px darkgrey;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    margin: 20px;
+}
+button{
+    height: 100px;
+    width: 245px;
+    font-size: 22px;
+    background-color: #fff;
+    color: rgb(27, 20, 58);
+    border: none;
+    font-weight: 300;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+/* .container-2{
+    height: 400px;
+    width: 100%;
+    background-color: green;
+}
+.container-3{
+    height: 400px;
+    width: 100%;
+    background-color: red;
+}
+.container-4{
+    height: 400px;
+    width: 100%;
+    background-color: yellow;
+}
+.container-5{
+    height: 400px;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+.container-6{
+    height: 400px;
+    width: 100%;
+    background-color: aquamarine;
+}
+.container-7{
+    height: 400px;
+    width: 90%;
+    background-color: magenta;
+} */
